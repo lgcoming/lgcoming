@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.lgcomin.com/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/lgcomin/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/lgcomin/">LinkedIn</a>
 </p>
 
 ---
