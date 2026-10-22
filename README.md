@@ -28,12 +28,6 @@ I'm a Full Stack Web Developer with experience building websites, digital soluti
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,wordpress,postgres,git,github,tailwind" alt="Technology stack" />
 </p>
 
-### Featured projects
-
-- **LGuIA** — Digital services, web development and AI automation for businesses.
-- **Portfolio** — Personal portfolio showcasing my work and technical skills.
-- **Dental Clinic Website** — A website project focused on a professional healthcare business.
-
 ### Currently focused on
 
 Backend development, API design, testing, databases and practical AI integrations.
