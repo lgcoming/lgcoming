@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Luis Gomez</h1>
 <h3 align="center">Full Stack Developer | Web Development | AI Integrations</h3>
 
@@ -8,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.lgcomin.com/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/lgcomin/">LinkedIn</a>
 </p>
 
 ---
