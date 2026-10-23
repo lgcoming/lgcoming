@@ -39,16 +39,17 @@ requirements, not extras.
 
 Also: Motion / Framer Motion, GSAP, Zod, Resend, Playwright, NgRx, ESLint, Prettier.
 
-### Selected work (live)
+### Selected work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [lgcomin.com](https://www.lgcomin.com/) | My portfolio: single-page app with scroll-linked motion, a canvas hero and a validated contact form. | Next.js 16, React 19, Motion, Zod, Resend, Playwright |
-| [WikipeIA](https://wikipeia.es/) | Spanish-language directory of AI tools, with categories and search. | Next.js, React 19, Tailwind CSS, Vercel Blob |
-| [Clínica Dental Castillo](https://clinica-dental-castillo.vercel.app/) | Corporate website for a dental clinic in Zaragoza, with an editorial, scroll-driven layout. | Next.js 16, TypeScript, Tailwind CSS 4, GSAP |
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **lguia** | Agency website and lead platform: digital-maturity diagnosis engine, validated lead API, spec-driven, 98 unit/integration tests plus Playwright E2E and CI. | Next.js 16, React 19, TypeScript, Zod, Vitest, Playwright | [Code](https://github.com/lgcoming/lguia) |
+| **lgcomin.com** | My portfolio: single-page app with scroll-linked motion, a canvas hero and a validated contact form. | Next.js 16, React 19, Motion, Zod, Resend, Playwright | [Live](https://www.lgcomin.com/) · [Code](https://github.com/lgcoming/porfolioLG) |
+| **WikipeIA** | Spanish-language directory of 200+ AI tools, with categories, search and favourites. | Next.js 16, React 19, Tailwind CSS, Resend, Vercel Blob | [Live](https://wikipeia.es/) · [Code](https://github.com/lgcoming/WikipeIA) |
+| **Clínica Dental Castillo** | Corporate website for a dental clinic in Zaragoza, with an editorial, scroll-driven layout. | Next.js 16, TypeScript, Tailwind CSS 4, GSAP | [Live](https://clinica-dental-castillo.vercel.app/) |
 
 More client websites (WordPress and custom builds) are listed on my [portfolio](https://www.lgcomin.com/).
-Most of my repositories are private client or product work; public, documented projects are on the way.
+Client work stays in private repositories.
 
 ### Currently focused on
 
