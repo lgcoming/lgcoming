@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luis Gómez</h1>
-<h3 align="center">Full Stack Developer · React, Next.js & TypeScript · Web, integrations and practical AI</h3>
+<h3 align="center">Full Stack Developer · React, Next.js & TypeScript · Web and AI solutions</h3>
 
 <p align="center">
   I build fast, accessible websites and web apps for businesses — from WordPress sites to typed,<br/>
