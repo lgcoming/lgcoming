@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer · React, Next.js & TypeScript · Web and AI solutions</h3>
 
 <p align="center">
-  I build fast, accessible websites and web apps for businesses — from WordPress sites to typed,<br/>
-  tested Next.js products — and connect them to the APIs, automations and AI tools they need.
+  I build accessible websites and web apps for businesses, from WordPress sites to typed,<br/>
+  tested Next.js products, and connect them to the APIs, automations and AI tools they need.
 </p>
 
 <p align="center">
